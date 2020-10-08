@@ -1,7 +1,7 @@
 # IntelligentDocumentClassify
 # A web app that reads documents of every kind, guesses what the contents are and creates index of documents. Then it could predict the other documents.
 
-Run this project:
+Run this project
 
 in local
 1. clone it on your computer
